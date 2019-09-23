@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("C# fans!")]
 [assembly: AssemblyProduct("Snaketail")]
-[assembly: AssemblyCopyright("Copyright 2019 ArdeshirV@protonmail.com & Milad Hasanzadeh")]
+[assembly: AssemblyCopyright("Copyright 2019 ArdeshirV@protonmail.com & Milad Hasanzadeh & Amir Gilhosseini")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
