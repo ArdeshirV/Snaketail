@@ -1,0 +1,6 @@
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\bin\Debug\Snaketail.exe.config
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\bin\Debug\Snaketail.exe
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\bin\Debug\Snaketail.pdb
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\obj\Debug\Snaketail.csprojResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\obj\Debug\Snaketail.exe
+D:\Documents\SharpDevelop Projects\Snaketail\Snaketail\obj\Debug\Snaketail.pdb
